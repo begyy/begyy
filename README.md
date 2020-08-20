@@ -1,4 +1,4 @@
-## Hi, I'm [Bekhzod!]
+## Hi, I'm Bekhzod 🐛
 
 <a href="https://www.linkedin.com/in/bekhzod-sadullayev-541819172/">
   <img align="left" alt="Mukhammadakbar's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
