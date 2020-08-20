@@ -1,16 +1,19 @@
-## Hi, I'm Mukhammadakbar Rafiqov
+## Hi, I'm Bekhzod
 
-<a href="https://www.linkedin.com/in/muhammadakbar-r-a87742142/">
+<a href="https://www.linkedin.com/in/bekhzod-sadullayev-541819172/">
   <img align="left" alt="Mukhammadakbar's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/markizdeviler/markizdeviler">
-  <img align="left" alt="Mukhammadakbar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/begyy">
+  <img align="left" alt="Bekhzod's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/markizdeviler">
-  <img align="left" alt="Mukhammadakbar's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<a href="https://t.me/begyy">
+  <img align="left" alt="Bekhzod's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.facebook.com/Mr.Deviler/">
-  <img align="left" alt="Mukhammadakbar's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://www.facebook.com/bekhzod.sadullayev.10/">
+  <img align="left" alt="Bekhzod's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.instagram.com/begymrx/">
+  <img align="left" alt="Bekhzod's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br/>
 <br/>
@@ -25,5 +28,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=begyy&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/begyy">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=begyy&show_icons=true&theme=light&line_height=27" alt="begyy github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=begyy&show_icons=true&theme=light&line_height=27" alt="Bekhzod 's github stats"/>
 </a>
