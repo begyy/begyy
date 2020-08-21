@@ -30,3 +30,4 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=begyy&show_icons=true&theme=radical" alt="Bekhzod 's github stats"/>
 </a>
 
+  <img align="right" alt="GIF" src="https://github.com/begyy/begyy/blob/master/profile.gif" />
