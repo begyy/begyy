@@ -31,4 +31,4 @@
 </a>
 
 
-<img align="right" alt="GIF" src="https://i.imgur.com/mxPfCq1.mp4" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/YpZT11k8drzJjB6TPs/giphy.gif" />
