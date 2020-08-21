@@ -29,4 +29,6 @@
 <a href="https://github.com/begyy">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=begyy&show_icons=true&theme=radical" alt="Bekhzod 's github stats"/>
 </a>
-[![eaa.gif](https://s7.gifyu.com/images/eaa.gif)](https://gifyu.com/image/cY0M)
+
+
+  <img align="right" alt="GIF" src="https://s7.gifyu.com/images/eaa.gif" />
