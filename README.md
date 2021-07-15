@@ -6,4 +6,4 @@
 
 　˚　　　　　　　　　　　　　　　　　　　　　ﾟ　　　　　.　　　　　　　　　　　　　　　. 　　 　 🌎 ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ,　 　　　　　　　　　　　　　　* .　　　　　 　　　　　　　　　　　　　　.　　　　　　　　　　 ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　.
 
-![Travis](https://steam-stat.vercel.app/api?profileName=begyy)
+<img src="http://i.imgur.com/qjeYbqX.png" width="350" align="right" alt="iron man" /> <img src="http://i.imgur.com/qjeYbqX.png" width="350" align="center" alt="iron man" />
